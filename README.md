@@ -24,3 +24,5 @@
 
 Глибоко опанувати стек AI Engineering, навчитися ефективно поєднувати сучасну веброзробку з ШІ-технологіями та будувати високоякісні, інтелектуальні рішення "з нуля".
 
+> "AI won't replace engineers, but engineers using AI will replace those who don't."
+
